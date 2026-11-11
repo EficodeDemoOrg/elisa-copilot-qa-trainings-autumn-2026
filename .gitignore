@@ -1,0 +1,15 @@
+node_modules/
+.venv/
+dist/
+build/
+.coverage/
+coverage/
+.vscode/
+.DS_Store
+*.log
+backend/data/db.json
+playwright-report/
+.playwright-mcp
+test-results/
+robot/results/
+.eslintcache
